@@ -41,7 +41,7 @@ movie-recommendation-system/
 pip install -r requirements.txt
 pip install streamlit pandas numpy scikit-learn
 streamlit run app.py
-http://localhost:8501
+https://movie-recommendation-system-7hprfaxgjcn4bif48xnkbl.streamlit.app/
 How It Works
 
 Reads the movie dataset
